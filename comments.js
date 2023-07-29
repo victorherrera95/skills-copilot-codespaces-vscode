@@ -1,2 +1,2 @@
-// create web server
-// 1. load modules 
+// create web server using express 
+const express = require('express');
